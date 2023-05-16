@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **unmaintained**
 
 # Fresh 
@@ -67,3 +68,7 @@ Here is a sample config file with the default settings:
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
+=======
+# gowatch
+Go Hot Reload Utility for For go engineers who wishes to have development flow automated
+>>>>>>> 98cff6a98cef40aaa4c8a692b0111f84e097f3ea
